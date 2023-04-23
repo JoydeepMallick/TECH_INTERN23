@@ -25,6 +25,6 @@ Dataset link : [weather-dataset](https://www.kaggle.com/datasets/muthuj7/weather
 
 Task : Make a Artificial Neural network model of deep learning to predict the weather condition (summary)from the weather history dataset.
 
-Model used : TBD
+Model used : Fully Connected Neural Network
 
-Accuracy achieved : TBD
+Accuracy achieved : 63.0 %
